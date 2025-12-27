@@ -31,6 +31,6 @@ This repository showcases my work in:
 ---
 
 ## 🛠 Tools & Skills
-- Excel | SQL | Python | Power BI
+- Excel | SQL | Python | Power BI |Statistics 
 - Google Analytics | SEO | Marketing Metrics
 - Data Analysis | Reporting | Insights
